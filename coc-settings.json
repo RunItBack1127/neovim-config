@@ -1,0 +1,4 @@
+{
+  "prettier.disableLanguages": ["markdown"],
+  "coc.preferences.formatOnSave": true
+}
